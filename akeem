@@ -1,0 +1,8 @@
+Create playbook that takes 
+	1. username 
+	2. public key
+ from user and creates that user on all the instances you have. Make sure the same playbook allows to remove the users from the system 
+Docs are here
+https://docs.ansible.com/ansible/latest/modules/user_module.html
+https://docs.ansible.com/ansible/latest/user_guide/playbooks_prompts.html
+https://docs.ansible.com/ansible/latest/user_guide/playbooks_tags.html
